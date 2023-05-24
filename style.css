@@ -13,8 +13,8 @@ header {
     padding: 5px;
 text-align: center;
 background-color: #333;
-color: rgb(255, 255, 255);
-text-shadow: 1px 1px 2px black, 0 0 25px lightblue, 0 0 5px blue;
+color: rgb(255, 0, 0);
+text-shadow: 1px 1px 2px black, 0 0 25px rgb(255, 0, 43), 0 0 5px rgb(255, 0, 0);
 
 
 }
@@ -23,20 +23,30 @@ text-shadow: 1px 1px 2px black, 0 0 25px lightblue, 0 0 5px blue;
 
 h1 {
   
+    font-size: 100px;
+    padding: 5px;
+    text-align: center;
+    margin: 0;
 
-    font-size: 35px;
+    
+}
 
+h2 {
+  color: rgb(255, 255, 255);
+  font-size: 50px;
+    padding: 50px;
+    text-align: center;
+    margin: 0;
+    text-shadow: 1px 1px 2px black
     
 }
 
 p  { 
     font-size: 30px;
- 
-    
-
+    padding: 30px;
+    text-align: center;
+    margin: 0;
 }   
-
-
 
 
 a {
@@ -78,4 +88,8 @@ ul {
   .topnav a.active {
     background-color: #df0000;
     color: white;
+  }
+
+  .videos {
+    padding: 50px;
   }
