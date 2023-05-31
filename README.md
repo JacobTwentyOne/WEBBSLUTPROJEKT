@@ -13,3 +13,5 @@ Jag skapade 2 kopior av sidan, gav det namnen "bild" och "video" och länkade de
 På video sidan har jag embedat några Youtube videos jag gillar, på Bild sidan har jag länkat några bilder jag tycker är roliga.
 
 Jag har lärt mig lite mer och webbdesign, specielt om Text när jag gjorde "homepagen" jag lärde mig ge texten skuggor och en "glow effekt".
+
+Jag har använt mig av validator.nu för att kolla sidan och den har inga problem!
